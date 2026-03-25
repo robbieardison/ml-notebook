@@ -1,6 +1,6 @@
 # Module 2 — Classification
 
-**Objectives:** baselines, logistic regression, k-NN, trees, SVM; metrics for imbalanced data.
+**Objectives:** baselines (Naive Bayes, k-NN), logistic regression, decision trees and random forests, SVM; metrics for imbalanced data.
 
 Datasets are loaded via `utils.data_paths.data_dir()` — run Jupyter from the repo root.
 

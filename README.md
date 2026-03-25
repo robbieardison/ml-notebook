@@ -20,7 +20,7 @@ Open notebooks from `course/` in the order given in [SYLLABUS.md](SYLLABUS.md).
 
 | Path | Purpose |
 | --- | --- |
-| [course/](course/) | Modules `00`–`08` with teaching notebooks |
+| [course/](course/) | Modules `00`–`09` with teaching notebooks (09 = RL intro) |
 | [exercises/](exercises/) | Short exercises per module |
 | [data/](data/) | Datasets (see [docs/DATASETS.md](docs/DATASETS.md)) |
 | [utils/](utils/) | Shared helpers (`data_dir()` for paths) |

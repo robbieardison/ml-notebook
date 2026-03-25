@@ -1,6 +1,6 @@
 # Classical ML course (notebooks)
 
-Modules are numbered `00`–`08`. Start with [00-setup-and-prereqs](00-setup-and-prereqs/README.md).
+Modules are numbered `00`–`09` (09 is optional RL intro). Start with [00-setup-and-prereqs](00-setup-and-prereqs/README.md).
 
 **Full path order:** see [../SYLLABUS.md](../SYLLABUS.md).
 

@@ -13,3 +13,4 @@ Short prompts aligned with each module in `course/`. Use them for homework or la
 | 6 | [module-06-ensembles.md](module-06-ensembles.md) |
 | 7 | [module-07-time-series.md](module-07-time-series.md) |
 | 8 | [module-08-capstone.md](module-08-capstone.md) |
+| 9 | [module-09-reinforcement-learning.md](module-09-reinforcement-learning.md) |

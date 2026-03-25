@@ -5,30 +5,34 @@ Work through modules in order. Each folder has a short `README.md` with objectiv
 ## Module 0 – Setup and prerequisites
 
 - [course/00-setup-and-prereqs/00-environment-and-jupyter.ipynb](course/00-setup-and-prereqs/00-environment-and-jupyter.ipynb)
+- [course/00-setup-and-prereqs/00b-paradigms-supervised-unsupervised-semi-and-rl.ipynb](course/00-setup-and-prereqs/00b-paradigms-supervised-unsupervised-semi-and-rl.ipynb) — supervised vs unsupervised vs semi-supervised vs RL
 - Exercise: [exercises/module-00-setup.md](exercises/module-00-setup.md)
 
 ## Module 1 – Regression
 
 - [course/01-regression/hours_of_studying.ipynb](course/01-regression/hours_of_studying.ipynb) — toy linear regression
 - [course/01-regression/california_housing_prediction.ipynb](course/01-regression/california_housing_prediction.ipynb) — real dataset, metrics
+- [course/01-regression/01-bias-variance-polynomial-regression.ipynb](course/01-regression/01-bias-variance-polynomial-regression.ipynb) — bias–variance with polynomial degree
+- [course/01-regression/01-regularized-linear-regression.ipynb](course/01-regression/01-regularized-linear-regression.ipynb) — Ridge, Lasso, Elastic Net
 - [course/01-regression/house-price-prediction-solution.ipynb](course/01-regression/house-price-prediction-solution.ipynb) — end-to-end pipeline patterns
 - Exercise: [exercises/module-01-regression.md](exercises/module-01-regression.md)
 
 ## Module 2 – Classification
 
+- [course/02-classification/02-naive-bayes-and-knn.ipynb](course/02-classification/02-naive-bayes-and-knn.ipynb) — Gaussian NB and k-NN (Wine dataset)
+- [course/02-classification/02-decision-trees-and-random-forest.ipynb](course/02-classification/02-decision-trees-and-random-forest.ipynb) — trees + forest + importances
 - [course/02-classification/bank_personal_loan.ipynb](course/02-classification/bank_personal_loan.ipynb)
 - [course/02-classification/income_classification.ipynb](course/02-classification/income_classification.ipynb)
 - [course/02-classification/mnist_classification.ipynb](course/02-classification/mnist_classification.ipynb)
 - [course/02-classification/svm.ipynb](course/02-classification/svm.ipynb)
 - [course/02-classification/solar_flare_svm.ipynb](course/02-classification/solar_flare_svm.ipynb)
 - [course/02-classification/magic_gamma_telescope.ipynb](course/02-classification/magic_gamma_telescope.ipynb)
-- [course/02-classification/p2p_credit_scoring_model_4.ipynb](course/02-classification/p2p_credit_scoring_model_4.ipynb)
-- [course/02-classification/indonesia_province_npl_prediction.ipynb](course/02-classification/indonesia_province_npl_prediction.ipynb)
 - Exercise: [exercises/module-02-classification.md](exercises/module-02-classification.md)
 
 ## Module 3 – Model evaluation and selection
 
 - [course/03-model-evaluation-and-selection/03-cross-validation-and-metrics.ipynb](course/03-model-evaluation-and-selection/03-cross-validation-and-metrics.ipynb)
+- [course/03-model-evaluation-and-selection/03-classification-metrics-and-thresholds.ipynb](course/03-model-evaluation-and-selection/03-classification-metrics-and-thresholds.ipynb) — ROC, PR, thresholds
 - Exercise: [exercises/module-03-evaluation.md](exercises/module-03-evaluation.md)
 
 ## Module 4 – Feature engineering and pipelines
@@ -40,6 +44,8 @@ Work through modules in order. Each folder has a short `README.md` with objectiv
 ## Module 5 – Unsupervised learning
 
 - [course/05-unsupervised-learning/05-clustering-and-pca.ipynb](course/05-unsupervised-learning/05-clustering-and-pca.ipynb)
+- [course/05-unsupervised-learning/05-gmm-anomaly-detection.ipynb](course/05-unsupervised-learning/05-gmm-anomaly-detection.ipynb) — mixture models + IsolationForest
+- [course/05-unsupervised-learning/05-semi-supervised-label-propagation.ipynb](course/05-unsupervised-learning/05-semi-supervised-label-propagation.ipynb)
 - Exercise: [exercises/module-05-unsupervised.md](exercises/module-05-unsupervised.md)
 
 ## Module 6 – Ensembles and boosting
@@ -57,6 +63,11 @@ Work through modules in order. Each folder has a short `README.md` with objectiv
 
 - [course/08-capstone/08-capstone-project.ipynb](course/08-capstone/08-capstone-project.ipynb)
 - Exercise: [exercises/module-08-capstone.md](exercises/module-08-capstone.md)
+
+## Module 9 – Reinforcement learning (intro)
+
+- [course/09-reinforcement-learning-basics/09-tabular-q-learning-frozenlake.ipynb](course/09-reinforcement-learning-basics/09-tabular-q-learning-frozenlake.ipynb)
+- Exercise: [exercises/module-09-reinforcement-learning.md](exercises/module-09-reinforcement-learning.md)
 
 ## Legacy material
 
